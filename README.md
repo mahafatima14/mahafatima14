@@ -7,4 +7,4 @@
   -📫 How to reach me: mahafatima14@gmail.com<br>
   -😄 Pronouns: she/her
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicalynn1&theme=github_dark&show_icons=true)](https://github.com/mahafatima14/github-readme-stats)
